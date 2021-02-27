@@ -3,6 +3,7 @@ Simple Python editor using tkinter library.
 
 # Installation
 Modules in the application are already in the standard **Python library**.
+
 But this version of the app uses:
 
 ```Python 3.7+```
